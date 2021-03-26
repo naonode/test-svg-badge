@@ -12,4 +12,12 @@
     begin="0s" dur="2s" fill="freeze" repeatCount="indefinite" />
   </g>
   <animate fill="freeze" dur="4000ms" begin="0s" values="#DA7272;#DABF72;#A6DA72;#72DA8C;#72DADA;#728CDA;#A672DA;#DA72C0;#DA7272" calMode="linear" attributeName="fill" repeatCount="indefinite" />
+    <style id="style1">
+        .discord-logo {
+                fill : blue;
+            }
+            .discord-logo:hover {
+              fill: green;
+            }
+        </style>
 </svg>
