@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 66">
+    <defs id="someDefs">
+        <style id="style1">
+            .blue-fill {
+                fill : blue;
+            }
+            .blue-fill:hover {
+              fill: green;
+            }
+        </style>
+    </defs>
+    <style id="style2">
+        .red-stroke {
+            stroke : red;
+            stroke-width : 12
+        }
+    </style>
+    <circle cx="50" cy="50" r="40" class="blue-fill red-stroke" />
+</svg>
