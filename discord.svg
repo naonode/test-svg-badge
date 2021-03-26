@@ -11,7 +11,7 @@
       ]]>
   </style>
   <g>
-    <rect id="vertical-rectangle" class="test" width="48" height="4" x="1" y="23" transform="rotate(90 25 24)"/>
-    <rect id="horizontal-rectangle" width="48" height="4" y="21"/>
+    <rect id="vertical-rectangle" class="test" width="48" height="20" x="1" y="23" transform="rotate(90 25 24)"/>
+    <rect id="horizontal-rectangle" width="48" height="20" y="21"/>
   </g>
 </svg>
