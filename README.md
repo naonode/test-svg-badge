@@ -5,8 +5,8 @@
 
 ---
 
-![](https://cdn.rawgit.com/NNTin/test/fbe3b4e3/test/animateddiscord.svg)
+![](https://cdn.rawgit.com/naonode/test-svg-badge/blob/master/fsm.svg)
 
 ---
 
-[<img src="https://cdn.rawgit.com/NNTin/test/fbe3b4e3/test/animateddiscord.svg">]()
+[<img src="https://cdn.rawgit.com/naonode/test-svg-badge/blob/master/fsm.svg">]()
